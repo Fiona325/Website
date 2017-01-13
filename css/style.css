@@ -58,10 +58,9 @@
     width: 135px;
     text-align: center;
     cursor:pointer;
-}
-.index_nav_ul li a{
     color:#fff;
 }
+
 .index_nav_ul_on{
     background: #1C65B1;
 }
