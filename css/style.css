@@ -46,7 +46,7 @@
 .index_nav{
     height: 60px;
     width: 100%;
-    background: #189AE2;
+    background: #c8aa94;
 }
 .index_nav_ul li{
     float: left;
@@ -62,7 +62,7 @@
 }
 
 .index_nav_ul_on{
-    background: #1C65B1;
+    background: #a28b79;
 }
 /*banner*/
 /* 本例子css */
@@ -84,7 +84,7 @@
         .slideBox .prevStop{ display:none;  }
         .slideBox .nextStop{ display:none;  }*/
 .index_styll1{
-    background: #DBEEF8;
+    background: #FFFFFF;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
     -ms-box-sizing:border-box;
@@ -359,7 +359,7 @@ a.index_style3_l_r{
 
 /*footer*/
 .index_footer{
-    background: #1C65B1;
+    background: #a28b79;
     width: 100%;
     height: 100px;
     padding-top: 20px;
@@ -421,7 +421,7 @@ a.index_style3_l_r{
 .case_left_t{
     height: 45px;
     line-height: 45px;
-    background: #1C65B1;
+    background: #a28b79;
 }
 .case_left_t1{
     font-size: 18px;
@@ -447,7 +447,7 @@ a.index_style3_l_r{
     margin-right: 25px;
 }
 a.case_left_li_on{
-    color:#1C65B1;
+    color:#a28b79;
 }
 .case_left_b{
     height: 40px;
