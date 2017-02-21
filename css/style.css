@@ -499,9 +499,9 @@ a.case_left_li_on{
     line-height: 35px;
     font-size: 18px;
     font-weight: bold;
-    color: #1C65B1;
+    color: #a28b79;
     margin-left: 10px;
-    border-left: 5px solid #1C65B1;
+    border-left: 5px solid #a28b79;
     padding-left: 10px;
 }
 .case_right_f_r{
@@ -513,7 +513,7 @@ a.case_left_li_on{
     margin-right: 5px;
 }
 .case_right_f_r a:last-child{
-    color:#1C65B1;
+    color:#a28b79;
     font-weight: bold;
 }
 
