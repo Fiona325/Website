@@ -64,6 +64,9 @@
 .index_nav_ul_on{
     background: #a28b79;
 }
+.index_nav_ul_click{
+    background: #a28b79;
+}
 /*banner*/
 /* 本例子css */
         .slideBox{ width:100%; overflow:hidden; position:relative; }
@@ -447,6 +450,9 @@ a.index_style3_l_r{
     margin-right: 25px;
 }
 a.case_left_li_on{
+    color:#a28b79;
+}
+a.case_left_li_click{
     color:#a28b79;
 }
 .case_left_b{

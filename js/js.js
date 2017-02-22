@@ -1,16 +1,33 @@
 $(function(){
+
     $(".index_nav_ul li").hover(function(){
         $(this).addClass("index_nav_ul_on");
     },function(){
         $(this).removeClass("index_nav_ul_on");
     });
 
-    $(".case_left_ul1 a").hover(function () {
+    
+    // $(".index_nav_ul li").click(function () {
+    //     var index = $(this).index();
+    //     alert(index);
+    //
+    // });
+
+   $(".case_left_ul1 a").hover(function () {
         $(this).addClass("case_left_li_on");
     },function () {
         $(this).removeClass("case_left_li_on");
 
     });
+
+    // $(".case_left_ul1 li").click(function () {
+    //     var index = $(this).index();
+    //     alert(index);
+    //     var h = $(this).attr("href");
+    //     $(this).attr("href",h+"?case_left_li_click&"+index);
+    //     //$(this).addClass("case_left_li_click");
+    //     alert($(this).attr("href"));
+    // });
     
     // index_style3
     var obj1=$(".index_style3_l>ul>li");
@@ -26,3 +43,4 @@ var a=function(obj1,obj2){
         obj2.show().siblings().hide();
     });
 };
+
